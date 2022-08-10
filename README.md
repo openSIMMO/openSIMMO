@@ -10,4 +10,4 @@ The Module with Thorlabs components has the relative position as shown in the di
 
 # 3D illustration of the setup (v1)
 
-![image](https://user-images.githubusercontent.com/52754557/183641571-f1b13553-981a-431e-aaa5-e510af54a1e3.png)
+![image](https://user-images.githubusercontent.com/52754557/183961108-10728f16-717c-452c-b84e-172a7e3ed847.png)
